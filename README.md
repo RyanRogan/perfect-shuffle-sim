@@ -1,6 +1,6 @@
-#Perfect Shuffle Simulator
+# Perfect Shuffle Simulator
 
-##About
+## About
 Alex Elmsely is a Scottish magician and computer programmer. He used his knowledge of maths 
 to create magic tricks. He discovered that if a magician could execute a certain amount of 
 perfect shuffles  they could bring the deck back to its original order.
@@ -13,7 +13,7 @@ The in-shuffle requires the deck to be shuffled 52 times to return to its origin
 
 The out-shuffle requires the deck to be shuffled 8 times to return to its original order.
 
-##How does this relate to this program?
+## How does this relate to this program?
 I've heard many people debate over whether this is possible, so I decided to write a program 
 that will execute perfect shuffles on a deck until the deck returns to its original order.
 The original order of the deck is:
